@@ -1,4 +1,4 @@
-//program to demonstrate function implementation which returns a structure
+//program to demonstrate function implementation which takes structure as a argument
 #include <stdio.h>
 struct student {
    char name[50];
